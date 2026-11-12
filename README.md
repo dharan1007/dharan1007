@@ -19,4 +19,4 @@ Private projects are not available for public code review. Their descriptions ar
 - [KATA](https://github.com/dharan1007/kata) — research and web-interoperability workflows across browser, APIs, MCP, WebMCP, and CLI.
 - [PACT](https://github.com/dharan1007/pact) — experimental preview-bound transaction and release-integrity controls.
 
-More: [Portfolio](https://dharantejreddy.vercel.app) · [GitHub repositories](https://github.com/dharan1007)
+More: [Portfolio](https://dharantejreddy.vercel.app) · [LinkedIn](https://www.linkedin.com/in/dharantej-reddy1727185) · [GitHub repositories](https://github.com/dharan1007)
