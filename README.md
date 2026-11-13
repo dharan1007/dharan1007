@@ -1,22 +1,24 @@
 # Dharantej Reddy
 
-I build software across AI systems, data engineering, and developer tools. I document scope and evidence so visitors can see what a project does and where its limits are.
+Founder at Aphelion building RÆDIUS, Airadise, and ARKHE. I also build open-source software for data migration and browser debugging. My work focuses on implementation, evidence, and clear project limits.
 
 ## Current focus
 
-| Project | Status | What it is |
-| --- | --- | --- |
-| [RÆDIUS overview](https://dharantejreddy.vercel.app/projects/raedius) | Private build | Phase 1 contract-first social-network prototype focused on contextual identity and audience-aware publishing. |
-| [Airadise overview](https://dharantejreddy.vercel.app/projects/airadise) | Private build | Local-first Tauri desktop app and reusable TypeScript packages for AI-agent workflows, permissions, and integrations. |
-| [ARKHE overview](https://dharantejreddy.vercel.app/projects/arkhe) | Private research project | Experimental computational-organism runtime. Capability claims remain tied to evidence. |
-| [SPOOL](https://github.com/dharan1007/spool) | Public, MIT | Local-first migration tooling for CSV/XLSX workflows and bounded CSV-to-existing-SQLite loading. [Browser Studio](https://spool-webmcp.vercel.app). |
-| [FAULTLINE](https://github.com/dharan1007/faultline) | Public, MIT | Playwright-based browser failure workbench that reduces an authorized failure to a smaller reproducer. [Workbench](https://faultline-webmcp.vercel.app). |
+The [Projects section of my portfolio](https://dharantejreddy.vercel.app/#projects) has public summaries of these private projects.
 
-Private projects are not available for public code review. Their descriptions are project summaries, not independent product or production-readiness claims.
+| Project | Access / status | Focus |
+| --- | --- | --- |
+| RÆDIUS | Private · development paused | Social-network prototype centered on contextual identity, audience-aware sharing, and real-world coordination. |
+| Airadise | Private build | Local-first desktop agent and automation environment with workflows, permissions, and integrations. |
+| ARKHE | Private research | Experimental computational-organism runtime; capability claims remain evidence-bound. |
+| [SPOOL](https://github.com/dharan1007/spool) | Public · MIT | Local-first migration tooling for CSV/XLSX and bounded CSV-to-existing-SQLite loading. [Browser Studio](https://spool-webmcp.vercel.app) |
+| [FAULTLINE](https://github.com/dharan1007/faultline) | Public · MIT | Local-first workbench for reducing authorized, reproducible Playwright failures. [Workbench](https://faultline-webmcp.vercel.app) |
+
+Private project summaries do not imply public code access or production readiness.
 
 ## Other open-source projects
 
 - [KATA](https://github.com/dharan1007/kata) — research and web-interoperability workflows across browser, APIs, MCP, WebMCP, and CLI.
 - [PACT](https://github.com/dharan1007/pact) — experimental preview-bound transaction and release-integrity controls.
 
-More: [Portfolio](https://dharantejreddy.vercel.app) · [LinkedIn](https://www.linkedin.com/in/dharantej-reddy1727185) · [GitHub repositories](https://github.com/dharan1007)
+More: [Portfolio](https://dharantejreddy.vercel.app) · [LinkedIn](https://in.linkedin.com/in/dharantej-reddy1727185) · [GitHub repositories](https://github.com/dharan1007)
