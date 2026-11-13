@@ -4,7 +4,7 @@ Founder at Aphelion building RÆDIUS, Airadise, and ARKHE. I also build open-sou
 
 ## Current focus
 
-The [Projects section of my portfolio](https://dharantejreddy.vercel.app/#projects) has public summaries of these private projects.
+The [Projects section of my portfolio](https://dharantejreddy.vercel.app#projects) has public summaries of these private projects.
 
 | Project | Access / status | Focus |
 | --- | --- | --- |
